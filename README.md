@@ -5,7 +5,7 @@
 
 ### 💻 Desenvolvedor em formação | Estudante de ADS
 
-<img src="./assets/programador-neon.gif"
+<img src="./assets/programador-neon (1).gif"
      width="320"
      alt="Personagem animado programando"/>
 
