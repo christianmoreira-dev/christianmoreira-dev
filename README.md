@@ -64,6 +64,6 @@
 
 ### 🚀 Sempre aprendendo, sempre evoluindo!
 
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&color=00D9FF&style=for-the-badge&label=VISUALIZACOES+DO+PERFIL" />
+<img src="https://komarev.com/ghpvc/?username=christianmoreira-dev&color=00D9FF&style=for-the-badge&label=VISUALIZACOES+DO+PERFIL" />
 
 </div>
